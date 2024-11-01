@@ -1,0 +1,50 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+1730401995431	geckodriver	INFO	Listening on 127.0.0.1:50220
+1730401998531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\noturno\\AppData\\Local\\Temp\\rust_mozprofileDMXAY3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730401999074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1730401999593	Marionette	INFO	Listening on port 50248
+Read port: 50248
+1730401999791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 35: ReferenceError: Weglot is not defined
+JavaScript error: https://www.botcity.dev/, line 65: ReferenceError: $ is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 337: SyntaxError: redeclaration of const containerEl
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://pt-br.botcity.dev/, line 36: ReferenceError: Weglot is not defined
+JavaScript error: https://pt-br.botcity.dev/, line 66: ReferenceError: $ is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://pt-br.botcity.dev/, line 336: SyntaxError: redeclaration of const containerEl
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+1730402011067	Marionette	INFO	Stopped listening on port 50248
+JavaScript warning: https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.3b60cf606.js, line 23: Script terminated by timeout at:
+r@https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.3b60cf606.js:23:381249
+
+Dynamically enable window occlusion 1
+1730402400799	geckodriver	INFO	Listening on 127.0.0.1:51855
+1730402403880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\noturno\\AppData\\Local\\Temp\\rust_mozprofileYOqBpy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730402404375	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1730402404793	Marionette	INFO	Listening on port 51865
+Read port: 51865
+1730402404956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730402506061	Marionette	INFO	Stopped listening on port 51865
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1730402511671	geckodriver	INFO	Listening on 127.0.0.1:51959
+1730402514775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\noturno\\AppData\\Local\\Temp\\rust_mozprofile5QkvWr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730402515271	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1730402515661	Marionette	INFO	Listening on port 51969
+Read port: 51969
+1730402515825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730402584331	Marionette	INFO	Stopped listening on port 51969
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
